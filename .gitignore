@@ -1,0 +1,12 @@
+# Ignore all
+*
+
+# Un-ignore files with extensions
+!*.*
+
+# Ignore gtest created files
+*.gcov
+*.a
+*.gcda
+*.gcno
+*.o
